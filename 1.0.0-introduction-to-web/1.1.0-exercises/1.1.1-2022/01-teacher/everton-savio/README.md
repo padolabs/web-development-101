@@ -1,6 +1,7 @@
 ### Everton Savio Santos Lucas  
->> [x] Teacher [ ] Student  
---- 
+- [x] Teacher  
+- [ ] Student  
+---  
 * email: savixlucas@gmail.com  
 * github: https://github.com/evertonsavio 
 * website: https://evertonsavio.dev 
@@ -12,4 +13,3 @@
 3. AI
 4. DevOps 
 ```
----
