@@ -25,6 +25,11 @@ https://github.com/microsoft/vscode
 > 002 - Crie o seu primeiro repositório no Github.
 - O seu primeiro repositório será um repositório especial com o seu perfil. Use o nome do seu usuário do github para cria-lo, por exemplo: Se o nome do seu usuário é "rhavyx", o nome do seu repositório será "rhavyx".
 - Dentro desse repositório, criar um arquivo markdown, chamado "README.md". (Por convenção, README maiusculo).
+```
+Não sabe o que é Markdown ? Pesquise! Leia! 
+Definição: https://markdown.net.br/introducao/
+Cheat-Sheet: https://github.com/padolabs/web-development-101/tree/master/1.0.0-introduction-to-web/1.2.0-markdown
+```
 > 003 - Melhore o seu perfil do Github. (Editar o README.md)  
 - Explorar exemplos no github, de perfis de outros desenvolvedores. Melhorar o seu "README.md" com informações tais como: Contato, o que gosta de fazer, o que está estudando, redes sociais, etc. Essas informações serão exibidas na sua página principal.  
 - Exemplo inicial:
