@@ -49,7 +49,7 @@ Cheat-Sheet: https://github.com/padolabs/web-development-101/tree/master/1.0.0-i
 - Esse repositório, também é um repositório especial, você deve cria-lo como o nome do seu usuário mais ".github.io". Exemplo: Se o seu usuário é "rhavyx", o nome desse novo repositório será: "rhavyx.github.io".
 - Criar um arquivo "README.md" nesse repositório. Editar esse markdown com suas informações. (Caso você já saiba HTML, poderá utilizar ao invés do README.md um index.html)
 > 005 - Pesquisar em sites e perfis pelo Github como melhorar o seu perfil e sua github page.
-- IMPORTANTE: Pelo resto do semestre, sempre que terminar seus exercicios, sua tarefa será melhorar o seu perfil e sua github page com técnicas pesquisadas por vocês.
+- IMPORTANTE: Pelo resto do semestre, sempre que terminar seus exercicios, sua tarefa será melhorar o seu perfil e sua github page com técnicas pesquisadas por vocês. Toda a entrega de exercícios será feita pelo Github.
 - Observação: Vocês não precisam desenvolver um site na sua github page, poderá utilizar apenas markdown. (O desenvolvimeto de websites será estudado nas disciplinas dos próximos semestres)
 - Exemplo da minha github page: https://evertonsavio.github.io . 
 - P.S. Quando estivermos estudando GIT, será pedido que vocês façam um PR (Pull Request) com o link do seu github. Você será adicionado a Organização PADOLabs, e aprenderá como contribuir em projetos utilizando GIT e GITHUB.
