@@ -3,7 +3,7 @@
 #### Professor: Everton Sávio S Lucas | @evertonsavio 
 
 #### Desenvolvimento Web 101
-> Disciplina introdutória de desenvolvimento Web, conteúdo:  
+> Repositório da disciplina introdutória de desenvolvimento Web, conteúdo:  
    
 * Introdução a Web   
 * Base em comandos Linux e Bash
