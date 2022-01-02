@@ -8,6 +8,20 @@
 No campo "Add email address" adicionar seu e-mail da padolabs.  
 Será necessário acessar seu email e confirma-lo para ativar.
 ```
+- Explore o github, visite perfis de desenvolvedores e acesse organizações e projetos OpenSource: 
+```
+Bitcoin Github Organization:
+https://github.com/bitcoin
+
+Bitcoin C++ source code:
+https://github.com/bitcoin/bitcoin
+
+Microsoft Github Organization:
+https://github.com/microsoft
+
+VS code source code:
+https://github.com/microsoft/vscode
+```
 > 002 - Crie o seu primeiro repositório no Github.
 - O seu primeiro repositório será um repositório especial com o seu perfil. Use o nome do seu usuário do github para cria-lo, por exemplo: Se o nome do seu usuário é "rhavyx", o nome do seu repositório será "rhavyx".
 - Dentro desse repositório, criar um arquivo markdown, chamado "README.md". (Por convenção, README maiusculo).
