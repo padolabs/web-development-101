@@ -116,7 +116,7 @@ cd web-development-101
 ```
 > 02 - Acesse a pasta 1.1.0-exercises
 ```
-cd 1.0.0-exercises
+cd 1.1.0-exercises
 ```
 > 021 - Acesse a pasta 1.0.0-introduction-to-web
 ```
