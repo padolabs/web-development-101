@@ -112,7 +112,7 @@ git clone git@github.com:SEU_NOME_DE_USUARIO_DO_GITHUB/web-development-101.git
 ```
 > 019 - Acesse a pasta clonada
 ```
-cd web-developmente-101
+cd web-development-101
 ```
 > 020 - Acesse a pasta 1.0.0-introduction-to-web
 ```
