@@ -114,14 +114,15 @@ git clone git@github.com:SEU_NOME_DE_USUARIO_DO_GITHUB/web-development-101.git
 ```
 cd web-development-101
 ```
-> 02 - Acesse a pasta 1.1.0-exercises
-```
-cd 1.1.0-exercises
-```
-> 021 - Acesse a pasta 1.0.0-introduction-to-web
+> 020 - Acesse a pasta 1.0.0-introduction-to-web
 ```
 cd 1.0.0-introduction-to-web
 ```
+> 021 - Acesse a pasta 1.1.0-exercises
+```
+cd 1.1.0-exercises
+```
+
 > 022 - Acesse a pasta 1.1.1-2022
 ```
 cd 1.1.1-2022
