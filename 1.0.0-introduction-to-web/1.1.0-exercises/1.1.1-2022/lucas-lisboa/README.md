@@ -4,7 +4,7 @@
 ---  
 * email: gabriel.lisboa.141@gmail.com  
 * github: https://github.com/LucaszLisboa 
-* website: LucaszLisboa.github.io 
+* website: https://lucaszlisboa.github.io/ 
 --- 
 #### Areas of interests: 
 ```
