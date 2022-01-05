@@ -118,7 +118,7 @@ cd 1.0.0-introduction-to-web
 ```
 cd 1.1.1-2022
 ```
-> 017 - Crir uma pasta com seu nome nos seguites requisitos
+> 017 - Criar uma pasta com seu nome nos seguites requisitos
 - nome-sobrenome, por exemplo: 
 ```
 mkdir joao-silva
@@ -132,6 +132,7 @@ cp README.md ../sua-pasta/README.md
 > 019 - ACESSE a sua pasta e EDITE o markdown copiado para ela.
 - Você deve substituir os campos com os seus dados e.g. Por exemplo: Informar seu link para o seu github.
 ```
+cd ../sua-pasta
 nano README.md
 
 ## PARA SALVAR
