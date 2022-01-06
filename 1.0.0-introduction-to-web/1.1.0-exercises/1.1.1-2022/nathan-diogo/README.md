@@ -4,7 +4,7 @@
 ---  
 * email: nathan.silva@padolabs.com.br  
 * github: https://github.com/nathandg 
-* website: https://nathandg.github.io
+* webpage: https://nathandg.github.io
 --- 
 #### Areas of interests: 
 ```
