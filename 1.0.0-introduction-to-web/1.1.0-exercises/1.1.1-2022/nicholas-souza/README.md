@@ -1,4 +1,4 @@
-### Everton Savio Santos Lucas  
+### Nicholas Dominiski Galvão Souza
 - [] Teacher  
 - [x] Student  
 ---  
