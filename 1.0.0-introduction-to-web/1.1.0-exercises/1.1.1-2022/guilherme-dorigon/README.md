@@ -4,7 +4,7 @@
 ---  
 * email: guidbovo@gmail.com  
 * github: https://github.com/gdorigon 
-* website: https://gdorigon.github.io 
+* webpage: https://gdorigon.github.io 
 --- 
 #### Areas of interests: 
 ```
