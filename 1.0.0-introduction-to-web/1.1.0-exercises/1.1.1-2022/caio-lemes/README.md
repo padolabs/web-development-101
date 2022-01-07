@@ -4,7 +4,7 @@
 ---  
 * email: caiolemes306@gmail.com
 * github: https://github.com/clopso 
-* website: https://clopso.github.io/ 
+* webpage: https://clopso.github.io/ 
 --- 
 #### Areas of interests: 
 ```
