@@ -112,28 +112,33 @@ git clone git@github.com:SEU_NOME_DE_USUARIO_DO_GITHUB/web-development-101.git
 ```
 > 019 - Acesse a pasta clonada
 ```
-cd web-developmente-101
+cd web-development-101
 ```
 > 020 - Acesse a pasta 1.0.0-introduction-to-web
 ```
 cd 1.0.0-introduction-to-web
 ```
-> 021 - Acesse a pasta 1.1.1-2022
+> 021 - Acesse a pasta 1.1.0-exercises
+```
+cd 1.1.0-exercises
+```
+
+> 022 - Acesse a pasta 1.1.1-2022
 ```
 cd 1.1.1-2022
 ```
-> 022 - Criar uma pasta com seu nome nos seguites requisitos
+> 023 - Criar uma pasta com seu nome nos seguites requisitos
 - nome-sobrenome, por exemplo: 
 ```
 mkdir joao-silva
 ```
 - A pasta deve ser escrita em minusculo, com "-" separando os 2 nomes.
-> 023 - Acesse a pasta everton-savio e copie o README.md dela para a sua pasta.
+> 024 - Acesse a pasta everton-savio e copie o README.md dela para a sua pasta.
 ```
 cd everton-savio
 cp README.md ../sua-pasta/README.md
 ```
-> 024 - ACESSE a sua pasta e EDITE o markdown copiado para ela.
+> 025 - ACESSE a sua pasta e EDITE o markdown copiado para ela.
 - Você deve substituir os campos com os seus dados e.g. Por exemplo: Informar seu link para o seu github.
 ```
 cd ../sua-pasta
@@ -145,7 +150,7 @@ ctrl + o
 ## PARA SAIR DO EDITOR
 ctrl + x
 ```
-> 025 - Utilizar os comandos básicos do GIT
+> 026 - Utilizar os comandos básicos do GIT
 - Confira o status com o comando git:
 ```
 git status
@@ -169,7 +174,7 @@ git commit -m ':books: dados de aluno da padolabs'
 ```
 git push
 ```
-> 026 - Acesse o Github e veja se as alterações foram para o seu FORK.
+> 027 - Acesse o Github e veja se as alterações foram para o seu FORK.
 - Acesse a organização PADOLabs e acesse o repositório original web-developmente-101
 - Faça um Pull Request com o "source": Seu FORK do repósitório web-developmente-101. E com o Target: Repositório web-developmente-101 original da PADOLabs. 
   
