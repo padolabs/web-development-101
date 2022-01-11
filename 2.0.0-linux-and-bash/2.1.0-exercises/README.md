@@ -147,3 +147,15 @@ Caso não saiba colocar a Imagem para aparecer no markdown, consultar a seção 
 * Faça o PUSH para mandar suas alterações para o Github. 
 ---
 13. O dono do Fork deve então realizar um PR no repositório original com todos os exercícios feitos pelos membros do grupo. Caso o PR seja aceito, o resultado satisfatório foi alcançado, e dessa forma os requisitos foram atingidos.
+
+14. Todos os integrantes devem treinar a utilização desses comandos. Será necessário nas aulas futuras os comandos:  
+```
+pwd
+ls
+cd
+cat
+echo
+cp
+mv
+```
+---  
