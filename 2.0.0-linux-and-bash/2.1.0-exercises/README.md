@@ -20,7 +20,7 @@ git commit -m 'exercicio-01 | josé'
 * Lembrando que o repositório que foi bifurcado (Forked) com a cópia do repositório original padolabs/web-development-101 é um repositório que pertence ao novo usuário, dessa forma você pode adicionar outros desenvolvedores a esse repositório.  
 * O dono do novo Fork deve Adicionar os(as) outros(as) dois(uas) integrantes ao repositório.
 - Todos os(as) integrantes devem fazer o clone desse novo Fork os quais foram adicionados (Checar o convite para participar do repositório em seu email).  
-* O dono do Fork deve criar uma pasta dentro do diretório web-development-101/2.0.0-linux-and-bash/2.1.0-exercises.
+* O dono do Fork deve criar uma pasta dentro do diretório web-development-101/2.0.0-linux-and-bash/2.1.0-exercises/2.1.1-2022/
 * O nome da pasta é o primeiro nome de cada integrante do grupo "e.g. joao-jose-maria" tudo em minusculo e separado por "-" e em ordem alfabética.
 * A partir de agora vocês devem completar esse exercício em conjunto, cada um dos integrantes irá fazer um dos exercicios a seguir em ordem alfabética, por exemplo se o nome da pasta é joao-jose-maria.
 ```
