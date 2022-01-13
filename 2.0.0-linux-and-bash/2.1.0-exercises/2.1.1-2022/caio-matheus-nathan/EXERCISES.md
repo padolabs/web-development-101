@@ -35,4 +35,4 @@ Exercicio 08 - Matheus
 
 Exercicio 09 - Nathan
 * Utilizei o Tail, para exibir as ultimas 2 linhas do arquivo.
-<img src="imagens/img-09.png" alt="ex09>
+<img src="imagens/img-09.png" alt="ex09">
