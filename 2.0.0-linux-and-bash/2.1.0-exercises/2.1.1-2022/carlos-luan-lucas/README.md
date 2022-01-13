@@ -26,7 +26,7 @@ Exercicio 06 - Lucas
 ![image](imagens/img-06.png)
 
 Exercicio 07 - Carlos
-* Comando : cat - Lista o cunteudo de um ou mais arquivos. Ex: cat README.md
+* Comando : cat - Lista o cunteudo de um ou mais arquivos. Ex: cat README.mc
 ![image](imagens/img-07.png)
 
 Exercicio 08 - Luan
