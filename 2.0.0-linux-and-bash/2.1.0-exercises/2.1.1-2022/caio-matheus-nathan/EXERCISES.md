@@ -5,12 +5,12 @@ Exercicio 01 - Caio
 * Descrever sobre qual comando linux utilizou e o que ele faz.
 IMG apontando para a imagem do exercicio na pasta imagens.
 
-Exercicio 02 - Matheus
+Exercicio 02 - sMatheus
 * Descrever sobre qual comando linux utilizou e o que ele faz.
 IMG apontando para a imagem do exercicio na pasta imagens.
 
 Exercicio 03 - Nathan
-* Descrever sobre qual comando linux utilizou e o que ele faz.
+* Utilizei o cp para copiar o README.md para EXERCISES.md.
 IMG apontando para a imagem do exercicio na pasta imagens.
 
 Exercicio 04 - Caio
@@ -22,7 +22,7 @@ Exercicio 05 - Matheus
 IMG apontando para a imagem do exercicio na pasta imagens.
 
 Exercicio 06 - Nathan
-* Descrever sobre qual comando linux utilizou e o que ele faz.
+* Utilizei o cd para navegar pelos diretórios.
 IMG apontando para a imagem do exercicio na pasta imagens.
 
 
@@ -35,7 +35,5 @@ Exercicio 08 - Matheus
 IMG apontando para a imagem do exercicio na pasta imagens.
 
 Exercicio 09 - Nathan
-* Descrever sobre qual comando linux utilizou e o que ele faz.
+* Utilizei o Tail, para exibir as ultimas 2 linhas do arquivo.
 IMG apontando para a imagem do exercicio na pasta imagens.
-
-
