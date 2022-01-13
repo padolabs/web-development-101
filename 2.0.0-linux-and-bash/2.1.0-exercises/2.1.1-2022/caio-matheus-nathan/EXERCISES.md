@@ -2,38 +2,38 @@
 ---  
 
 Exercicio 01 - Caio
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+* Usei o MKDIR para criar uma nova pasta.
+<img src="imagens/img-01.png" alt="ex01">
 
-Exercicio 02 - sMatheus
+Exercicio 02 - Matheus
 * Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+
 
 Exercicio 03 - Nathan
 * Utilizei o cp para copiar o README.md para EXERCISES.md.
-IMG apontando para a imagem do exercicio na pasta imagens.
+
 
 Exercicio 04 - Caio
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+* Usei o comando LS para listar todos os arquivos do diretório.
+<img src="imagens/img-04.png" alt="ex04">
+
 
 Exercicio 05 - Matheus
 * Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+
 
 Exercicio 06 - Nathan
 * Utilizei o cd para navegar pelos diretórios.
-IMG apontando para a imagem do exercicio na pasta imagens.
 
 
 Exercicio 07 - Caio
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+* Usei o comando CAT para ler todo o arquivo.
+<img src="imagens/img-07.png" alt="ex07">
+
 
 Exercicio 08 - Matheus
 * Descrever sobre qual comando linux utilizou e o que ele faz.
-IMG apontando para a imagem do exercicio na pasta imagens.
+
 
 Exercicio 09 - Nathan
 * Utilizei o Tail, para exibir as ultimas 2 linhas do arquivo.
-IMG apontando para a imagem do exercicio na pasta imagens.
