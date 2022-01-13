@@ -6,8 +6,8 @@ Exercicio 01 - Caio
 <img src="imagens/img-01.png" alt="ex01">
 
 Exercicio 02 - Matheus
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-
+* Usei o echo para criar um arquivo README.md.
+<img src="imagens/img-02.png" alt="ex02">
 
 Exercicio 03 - Nathan
 * Utilizei o cp para copiar o README.md para EXERCISES.md.
@@ -19,8 +19,8 @@ Exercicio 04 - Caio
 
 
 Exercicio 05 - Matheus
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-
+* Usei o pwd para verificar o diretório de trabalho.
+<img src="imagens/img-05.png" alt="ex05">
 
 Exercicio 06 - Nathan
 * Utilizei o cd para navegar pelos diretórios.
@@ -32,8 +32,8 @@ Exercicio 07 - Caio
 
 
 Exercicio 08 - Matheus
-* Descrever sobre qual comando linux utilizou e o que ele faz.
-
+* Usei o comando head para exibir as duas primeiras linhas do arquivo EXERCISES.md.
+<img src="imagens/img-08.png" alt="ex08">
 
 Exercicio 09 - Nathan
 * Utilizei o Tail, para exibir as ultimas 2 linhas do arquivo.
