@@ -15,12 +15,12 @@
 * touch: usado para criar um arquivo (EXERCISES.md).
 <img src="imagens/img-03.png" alt="print do exercicio 03">
 
-<!--
+
 ## Exercicio 04 - Arielly
-* 
+* ls: usado para vizualizar arquivos e pastas, do seu ponto atual.
 <img src="imagens/img-04.png" alt="print do exercicio 04">
 
-
+<!--
 ## Exercicio 05 - Camila
 * 
 <img src="imagens/img-05.png" alt="print do exercicio 05">
