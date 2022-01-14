@@ -30,12 +30,12 @@
 * cd: Para navegar pelos arquivos e diretórios
 <img src="imagens/img-06.png" alt="print do exercicio 06">
 
-<!--
+
 ## Exercicio 07 - Arielly
-* 
+* cat: usado para mostra (printar) no termanil linux, o conteúdo do arquivo desejado.
 <img src="imagens/img-07.png" alt="print do exercicio 07">
 
-
+<!--
 ## Exercicio 08 - Camila
 * 
 <img src="imagens/img-08.png" alt="print do exercicio 08">
