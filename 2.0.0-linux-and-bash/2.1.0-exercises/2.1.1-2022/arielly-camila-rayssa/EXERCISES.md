@@ -53,12 +53,11 @@
 ## Exercicio 11 - Camila
 * colocamos ao decorrer dos exercicios.
 
-<!--
+
 ## Exercicio 12 - Rayssa
+* colocamos ao decorrer dos exercicios.
 
-<img src="imagens/img-12.png" alt="print do exercicio 12">
-
-
+<!--
 ## Exercicio 13 - Arielly
 
 <img src="imagens/img-13.png" alt="print do exercicio 13">
