@@ -20,12 +20,12 @@
 * ls: usado para vizualizar arquivos e pastas, do seu ponto atual.
 <img src="imagens/img-04.png" alt="print do exercicio 04">
 
-<!--
+
 ## Exercicio 05 - Camila
-* 
+* pwd: usado para descobrir o caminho da pasta em que você está.
 <img src="imagens/img-05.png" alt="print do exercicio 05">
 
-
+<!--
 ## Exercicio 06 - Rayssa
 * 
 <img src="imagens/img-06.png" alt="print do exercicio 06">
