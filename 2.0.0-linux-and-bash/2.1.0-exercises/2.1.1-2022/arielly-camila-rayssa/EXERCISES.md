@@ -6,7 +6,8 @@
 
 
 ## Exercicio 02 - Camila
-* 
+* apaguei o mkadir e depois eu refiz com touch 
+* touch: é usado para criar um arquivo.
 <img src="imagens/img-02.png" alt="print do exercicio 02">
 
 
