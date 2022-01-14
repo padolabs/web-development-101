@@ -36,7 +36,7 @@ Exercicío 9 - Maria <br>
 *Usei TAIL para exibir o conteúdo arquivo EXERCISES.md.
 ![img9](https://github.com/CamilleSoares/web-development-101/blob/master/2.0.0-linux-and-bash/2.1.0-exercises/2.1.1-2022/camille-gabrielly-maria/imagens/img-09.png?raw=true)
 
-Exercico 10 - Camille <br>
+Exercicio 10 - Camille <br>
 *Coloquei meus exercicios e imagens no arquivo markdown "README.md".
 
 Exercicio 11 - Gabrielly <br>
