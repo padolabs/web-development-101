@@ -47,15 +47,15 @@
 
 
 ## Exercicio 10 - Arielly
-* colocamos ao decorrer dos exercicios.
+* coloquei ao decorrer dos exercicios.
 
 
 ## Exercicio 11 - Camila
-* colocamos ao decorrer dos exercicios.
+* coloquei ao decorrer dos exercicios.
 
 
 ## Exercicio 12 - Rayssa
-* colocamos ao decorrer dos exercicios.
+* coloquei ao decorrer dos exercicios.
 
 <!--
 ## Exercicio 13 - Arielly
