@@ -49,12 +49,11 @@
 ## Exercicio 10 - Arielly
 * colocamos ao decorrer dos exercicios.
 
-<!--
+
 ## Exercicio 11 - Camila
-* 
-<img src="imagens/img-11.png" alt="print do exercicio 11">
+* colocamos ao decorrer dos exercicios.
 
-
+<!--
 ## Exercicio 12 - Rayssa
 
 <img src="imagens/img-12.png" alt="print do exercicio 12">
