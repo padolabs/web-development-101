@@ -45,12 +45,11 @@
 * tail: usado para ver as ultimas linhas de qualquer arquivo de texto.
 <img src="imagens/img-09.png" alt="print do exercicio 09">
 
-<!--
+
 ## Exercicio 10 - Arielly
-* 
-<img src="imagens/img-10.png" alt="print do exercicio 10">
+* colocamos ao decorrer dos exercicios.
 
-
+<!--
 ## Exercicio 11 - Camila
 * 
 <img src="imagens/img-11.png" alt="print do exercicio 11">
@@ -65,8 +64,7 @@
 
 <img src="imagens/img-13.png" alt="print do exercicio 13">
 
-
-## Exercicio 14 - Camila
-
-<img src="imagens/img-14.png" alt="print do exercicio 14">
 -->
+## Exercicio 14 - Todos os membros
+* usamos todos os comandos ao decorrer dos exercicios.
+* OBS: execeto o 'echo'.
