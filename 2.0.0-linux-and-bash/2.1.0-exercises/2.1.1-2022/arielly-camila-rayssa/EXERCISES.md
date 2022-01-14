@@ -25,12 +25,12 @@
 * pwd: usado para descobrir o caminho da pasta em que você está.
 <img src="imagens/img-05.png" alt="print do exercicio 05">
 
-<!--
+
 ## Exercicio 06 - Rayssa
-* 
+* cd: Para navegar pelos arquivos e diretórios
 <img src="imagens/img-06.png" alt="print do exercicio 06">
 
-
+<!--
 ## Exercicio 07 - Arielly
 * 
 <img src="imagens/img-07.png" alt="print do exercicio 07">
