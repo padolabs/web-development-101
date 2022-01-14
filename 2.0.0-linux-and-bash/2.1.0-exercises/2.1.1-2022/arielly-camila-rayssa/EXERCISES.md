@@ -57,12 +57,7 @@
 ## Exercicio 12 - Rayssa
 * coloquei ao decorrer dos exercicios.
 
-<!--
-## Exercicio 13 - Arielly
 
-<img src="imagens/img-13.png" alt="print do exercicio 13">
-
--->
 ## Exercicio 14 - Todos os membros
 * usamos todos os comandos ao decorrer dos exercicios.
 * OBS: execeto o 'echo'.
