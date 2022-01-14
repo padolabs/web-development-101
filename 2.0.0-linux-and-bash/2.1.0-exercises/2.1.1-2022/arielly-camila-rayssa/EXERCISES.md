@@ -40,12 +40,12 @@
 * head: usado para ver as primeiras linhas de qualquer arquivo de texto.
 <img src="imagens/img-08.png" alt="print do exercicio 08">
 
-<!--
+
 ## Exercicio 09 - Rayssa
-* 
+* tail: usado para ver as ultimas linhas de qualquer arquivo de texto.
 <img src="imagens/img-09.png" alt="print do exercicio 09">
 
-
+<!--
 ## Exercicio 10 - Arielly
 * 
 <img src="imagens/img-10.png" alt="print do exercicio 10">
