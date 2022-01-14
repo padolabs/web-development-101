@@ -12,7 +12,7 @@
 
 
 ## Exercicio 03 - Rayssa
-* 
+* touch: usado para criar um arquivo (EXERCISES.md).
 <img src="imagens/img-03.png" alt="print do exercicio 03">
 
 <!--
