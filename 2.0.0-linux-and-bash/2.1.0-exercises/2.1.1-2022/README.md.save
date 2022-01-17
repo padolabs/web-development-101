@@ -1,0 +1,96 @@
+do utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+4. LS - Liste os aquivos da pasta do seu grupo.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+5. PWD - Verifique o seu diretório de trabalho atual.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+6. CD - Acesse a pasta imagens do terminal e retorne para a pasta do grupo.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+7. CAT - Exiba o conteúdo do arquivo EXERCISES.md no terminal.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+8. HEAD - Exiba as duas primeiras linhas do conteúdo do arquivo EXERCISES.md no terminal.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+9. TAIL - Exiba as duas ultimas linhas do conteúdo do arquivo EXERCISES.md no terminal.
+* Faça o PULL para checar por alterações remotas.
+* Coloque dentro da pasta imagens a foto do terminal do comando utilizado. 
+* Faça o PUSH para mandar suas alterações para o Github.
+10. Adicionar as imagens dos exercícios que você fez no aquivo README.md
+* Faça o PULL para checar por alterações remotas.
+```
+### Exercicios do Grupo Joao-Jose-Maria 
+---  
+
+Exercicio 01 - Joao
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+Exercicio 02 - Jose
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+E assim por diante...
+Caso não saiba colocar a Imagem para aparecer no markdown, consultar a seção 1.0.0-introduction-to-web/1.2.0-markdown
+```
+* Faça o PUSH para mandar suas alterações para o Github.
+---
+11. Adicionar as imagens dos exercícios que você fez no aquivo README.md
+* Faça o PULL para checar por alterações remotas.
+```
+### Exercicios do Grupo Joao-Jose-Maria 
+---  
+
+Exercicio 01 - Joao
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+Exercicio 02 - Jose
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+E assim por diante...
+Caso não saiba colocar a Imagem para aparecer no markdown, consultar a seção 1.0.0-introduction-to-web/1.2.0-markdown
+```
+* Faça o PUSH para mandar suas alterações para o Github.
+---
+12. Adicionar as imagens dos exercícios que você fez no aquivo README.md
+* Faça o PULL para checar por alterações remotas.
+```
+### Exercicios do Grupo Joao-Jose-Maria 
+---  
+
+Exercicio 01 - Joao
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+Exercicio 02 - Jose
+* Descrever sobre qual comando linux utilizou e o que ele faz.
+IMG apontando para a imagem do exercicio na pasta imagens.
+
+E assim por diante...
+Caso não saiba colocar a Imagem para aparecer no markdown, consultar a seção 1.0.0-introduction-to-web/1.2.0-markdown
+```
+* Faça o PUSH para mandar suas alterações para o Github. 
+---
+13. O dono do Fork deve então realizar um PR no repositório original com todos os exercícios feitos pelos membros do grupo. Caso o PR seja aceito, o resultado satisfatório foi alcançado, e dessa forma os requisitos foram atingidos.
+
+14. Todos os integrantes devem treinar a utilização desses comandos. Será necessário nas aulas futuras os comandos:  
+```
+pwd
+ls
+cd
+cat
+echo
+cp
+mv
+```
+---  
