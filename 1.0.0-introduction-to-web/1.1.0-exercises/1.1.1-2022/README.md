@@ -38,7 +38,7 @@ $ node -v
 v14.17.3
 ```
 6. O que são gerenciadores de pacotes (software)?  
-6.1 Instale os principais gerenciadores de pacote para a linguagem JavaScript em sua máquina. | Listar os comandos que utilizou.
+6.1 Instale os principais gerenciadores de pacote para a linguagem JavaScript em sua máquina. | Listar os comandos que utilizou.  
 6.2 Para checar se você possui os gerenciadores:  
 ```
 $ npm -v
@@ -50,7 +50,7 @@ $ yarn -v
 7. Java e JavaScript são a mesma linguagem ? Descreva as diferenças entre essas linguagens e pesquise do porque do nome ser parecido.
   
 8. Você possui o gerenciador de pacotes da linguagem Python em sua máquina?  
-8.1  Caso não tenha, instale o principal gerenciador de pacote para a linguagem python. | Listar os comandos que utilizou.
+8.1  Caso não tenha, instale o principal gerenciador de pacote para a linguagem python. | Listar os comandos que utilizou.  
 8.2 Para checar se você possui o gerenciador de pacote do python (V maisusculo):  
 ```
 $ pip -V
@@ -69,7 +69,7 @@ pip 21.3.1
 10.1 Java é totalmente POO. O que é uma classe e o que é um objeto ?  
 10.2 O que é a JVM, JRE e a JDK ? Descreva.  
 10.3 Quais os principais gerenciadores de pacote da linguagem java ?
-10.4 Instale o Open JDK 11 em sua máquina. | Listar os comandos que utilizou.
+10.4 Instale o Open JDK 11 em sua máquina. | Listar os comandos que utilizou.  
 
 ```
 $ java --version
@@ -84,7 +84,7 @@ java 11.0.12 2021-07-20 LTS
 
 12. O que é docker ?    
 12.1 Quais suas vantagens ?  
-12.1 Instale o Docker em sua máquina. | Listar os comandos que utilizou.
+12.1 Instale o Docker em sua máquina. | Listar os comandos que utilizou.  
 
 * Estudaremos containers Docker, a linguagem Java entre outras com calma futuramente, por enquanto é somente importante se familiarizar com os conceitos apresentados nesse exercicio e com os processos de instalação e configuração do ambiente de desenvolvimento. 
 ---
