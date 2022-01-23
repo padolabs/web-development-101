@@ -9,15 +9,33 @@
 * Base em comandos Linux e Bash
 * Git / Github
 
+### Ementa
 > 12 Aulas
 ```
 1. Introdução a Web (Um pouco sobre como a Internet se conecta. Linguagens e carreiras em desenvolvimento. Criação de conta no Github e criação dos primeiros repositórios. Markdown. Acesso a projetos OpenSource para conhecimento e familiarização)
-   
-2. Linux 101 (Comandos linux. Objetivo: Otimizar o trabalho do desenvolvedor. Criação de chaves SSH para o Github)
-  
-3 - 4. Bash 101 (Bash. Objetivo: Otimizar o trabalho do desenvolvedor e criar a base para estudo de automação e DevOps)
+ 
+2. Introdução ao Git, primeiros comandos.
+ 
+3. Trabalhando em conjunto com Git sem utilizar branches.
+ 
+4. Linux 101 (Comandos linux. Objetivo: Otimizar o trabalho do desenvolvedor)
+ 
+5. Git-flow, desenvolver uma webpage utilizando git corretamente com as branches.
 
-5 - 12. Git (Comandos Git indispensáveis no dia a dia do desenvolvedor. Colaboração com Fork, Pull Requests. FLuxo de trabalho GitFlow. Trabalho em conjunto e resolução de conflitos. Importância da colaboração e trabalho em equipe no desenvolvimento de software.)
+6. Revisão de git & aplicação do git-flow para desenvolver uma webpage a partir de um template.
+
+7. Git stash, rebase, reset. Variaveis de ambiente & configuração do ambiente de desenvolvimento fornt-end & back-end para web developers. Conceitos de linguagem interpretada e compilada com exemplos práticos.
+
+8. Introdução a desenvolvimento backend ( Estudo de linguagens Python, javascript, java ).
+
+9. Criação de um servidor backend Flask / Node.js.
+
+10. Introdução a desenvolvimento frontend (Estudo de HTML / CSS ).
+
+11. Introdução a desenvolvimento frontend (JavaScript) / Consumindo as APIs do backend da aula 9.
+
+12. Criação de um projeto full-stack utilizando o fluxo do git-flow.
+
 ```
 
 ---
